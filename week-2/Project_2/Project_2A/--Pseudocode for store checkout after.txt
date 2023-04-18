@@ -1,0 +1,17 @@
+--Program for store checkout after payment
+
+1. Enter the store
+2. Choose Items and store them in cart
+3. Decide either to pay with a Credit card or a transfer
+
+	--if transfering
+4. Acquire the Account number of the store
+5. Pay for the items through bank app or ussd
+6. Await confirmation
+7. Leave the store 
+
+	--if using credit card
+4. Swipe credit card or type in info
+5. Pay for the items
+6. Await confirmation
+6. Leave the store
