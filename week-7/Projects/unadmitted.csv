@@ -1,4 +1,5 @@
-,name,degree,score
-0,"['Abel', 'Kamsi', 'Oyode', 'Chinelo']",,
-1,,"['MBA', 'BCA', 'M.Tech', 'MBA']",
-2,,,"[90, 40, 80, 98]"
+,name,JambScore,Credits,Department
+0,['Micheal'],,,
+1,,[190],,
+2,,,[6],
+3,,,,['Mass Comunication']
